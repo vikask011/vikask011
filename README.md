@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="banner.png" alt="Vikas K Banner" width="90%" />
+  <img src="banner.png" alt="Vikas K Banner" width="100%" />
 </p>
 
 <br>
